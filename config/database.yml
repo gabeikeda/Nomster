@@ -85,3 +85,7 @@ production:
   database: nomster_production
   # username: nomster
   # password: <%= ENV['NOMSTER_DATABASE_PASSWORD'] %>
+  AWS_ACCESS_KEY: "AKIAIM3ZGKFBJ6XETKFQ"
+  AWS_SECRET_KEY: "paste-aws-secret-key-here"
+
+  
